@@ -1,0 +1,4 @@
+PORT = 5500
+MONGODB_URL = 'mongodb://localhost:27017/foodAppProj'
+# MONGODB_ATLAS__URL = ""
+JWT_SECRET_KEY = ''
